@@ -33,10 +33,11 @@
     "dax-sh": "^0.39.2",
     "jasmine": "^4.6.0",
     "patch-package": "^8.0.0",
+    "strip-ansi": "^7.1.0",
     "typescript": "^5.0.4"
   },
   "peerDependencies": {
-    "jasmine-core": "^4.6.0",
-    "@web/test-runner": "^0.18.0"
+    "@web/test-runner": "^0.18.0",
+    "jasmine-core": "^4.6.0"
   }
 }
