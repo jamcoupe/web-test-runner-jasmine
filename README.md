@@ -1,6 +1,7 @@
 # web-test-runner-jasmine
 
 [![npm version](https://badge.fury.io/js/@jcoup%2Fweb-test-runner-jasmine.svg)](https://badge.fury.io/js/@jcoup%2Fweb-test-runner-jasmine) ![CI Build](https://github.com/jamcoupe/web-test-runner-jasmine/actions/workflows/build.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jamcoupe_web-test-runner-jasmine&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jamcoupe_web-test-runner-jasmine)
 
 A [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) plugin for running Jasmine.
 
