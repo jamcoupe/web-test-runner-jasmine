@@ -23,8 +23,6 @@ declare global {
 class JasmineWebTestRunnerReporter implements jasmine.CustomReporter {
   private _errors: TestResultError[] = [];
   
-  constructor() {}
-  
   jasmineStarted() {
     return sessionStarted();
   }
@@ -88,7 +86,7 @@ class JasmineWebTestRunnerReporter implements jasmine.CustomReporter {
       testResults: {
         name: 'jasmine',
         tests: testResults,
-        suites: [], // todo fix the suites here
+        suites: [] // check if there is an material benefit of passing the actual suites to web test runner
       }
     }
 

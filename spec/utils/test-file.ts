@@ -18,7 +18,6 @@ export async function testFile(file: string): Promise<{ code: number | null, ter
 
   return new Promise((resolve) => {
     child.on('exit', (code: any) => {
-      // console.log('code', scriptOutput);
       resolve({code, terminalOutput: scriptOutput});
     })
   });
