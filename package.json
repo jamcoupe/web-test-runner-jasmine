@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https:/s/github.com/jamcoupe/web-test-runner-jasmine.git"
+    "url": "git+https://github.com/jamcoupe/web-test-runner-jasmine.git"
   },
   "author": "Jamie Couperwhite",
   "license": "MIT",
