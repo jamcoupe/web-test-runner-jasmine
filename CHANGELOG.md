@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.2.0
+- Update dependencies
+
 ## 2.1.0
 - Allow a consumers to provide global a global matcher file
 
