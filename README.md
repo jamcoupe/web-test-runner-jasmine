@@ -7,7 +7,7 @@ A [Web Test Runner](https://modern-web.dev/docs/test-runner/overview/) plugin fo
 
 ## Setup
 
-Import `jasmineTestRunnerConfig` and add too your `web-test-runner.config.mjs`.
+Import `jasmineTestRunnerConfig` and add to your `web-test-runner.config.mjs`.
 If using TypeScript you can add `esbuildPlugin`.
 
 ```javascript
